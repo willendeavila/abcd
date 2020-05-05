@@ -1,0 +1,3 @@
+ape tem
+largura = 224
+altura = 230
